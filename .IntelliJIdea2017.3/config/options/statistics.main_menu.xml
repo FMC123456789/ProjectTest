@@ -1,0 +1,19 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Build Project" count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="7" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="1" />
+      <entry path="File -&gt; Open..." count="4" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="1" />
+      <entry path="File -&gt; Project Structure..." count="3" />
+      <entry path="File -&gt; Settings..." count="23" />
+      <entry path="Help -&gt; Show Log in File Manager" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Database" count="3" />
+      <entry path="View -&gt; Tool Windows -&gt; Maven Projects" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="5" />
+      <entry path="Window -&gt; Restore Default Layout" count="5" />
+      <entry path="Window -&gt; Store Current Layout as Default" count="1" />
+    </counts>
+  </component>
+</application>

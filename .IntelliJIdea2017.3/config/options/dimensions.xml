@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="963" y="195" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="691" y="163" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="456" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="518" y="298" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="494" y="85" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1420" y="899" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="478" y="0" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="570" y="125" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="169" y="266" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="540" y="260" />
+    <location key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080@120dpi" x="944" y="377" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="138" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="273" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1920" height="273" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1920" height="273" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1920" height="273" />
+    <size key="new project wizard.0.0.1920.1080@120dpi" width="896" height="649" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="1090" height="801" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1426" height="879" />
+  </component>
+</application>

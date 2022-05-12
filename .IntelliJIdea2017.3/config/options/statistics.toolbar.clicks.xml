@@ -1,0 +1,20 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CompileDirty@NavBarToolbar" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="4" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="1" />
+      <entry action="Jdbc.OpenEditor.Data@ProjectViewToolbar" count="1" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="81" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="20" />
+      <entry action="Stop@NavBarToolbar" count="73" />
+      <entry action="com.intellij.codeInsight.template.impl.TemplateListPanel$6@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$HideWarningsAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="15" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="8" />
+    </counts>
+  </component>
+</application>

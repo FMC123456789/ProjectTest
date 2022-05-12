@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\artifacts\wwwqianfengweb_war.xml" timestamp="1628731105836" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\artifacts\wwwqianfengweb_war_exploded.xml" timestamp="1629171310218" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\compiler.xml" timestamp="1628730905085" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\dataSources.local.xml" timestamp="1628738986177" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\dataSources.xml" timestamp="1628738977233" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\dataSources\a1b3dd8a-bcad-44e0-8218-60d21843bac2.xml" timestamp="1628820817880" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\encodings.xml" timestamp="1628730905093" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_2_3.xml" timestamp="1628731192492" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__ch_qos_logback_logback_core_1_2_3.xml" timestamp="1628731192501" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_classmate_1_3_4.xml" timestamp="1628731192508" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" timestamp="1628731192516" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" timestamp="1628731192523" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" timestamp="1628731192532" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" timestamp="1628731192539" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" timestamp="1628731192547" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" timestamp="1628731192553" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_github_caspar_chen_swagger_ui_layer_1_1_2.xml" timestamp="1628751602280" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_google_guava_guava_20_0.xml" timestamp="1628751602290" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_google_protobuf_protobuf_java_3_11_4.xml" timestamp="1628731192561" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__com_zaxxer_HikariCP_2_7_9.xml" timestamp="1628731192567" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_3.xml" timestamp="1629171310242" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1629171310248" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_core_2_8_0.xml" timestamp="1628751602298" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_schema_2_8_0.xml" timestamp="1628751602306" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_spi_2_8_0.xml" timestamp="1628751602314" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_spring_web_2_8_0.xml" timestamp="1628751602321" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_swagger2_2_8_0.xml" timestamp="1628751602328" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_swagger_common_2_8_0.xml" timestamp="1628751602335" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" timestamp="1628751602343" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_swagger_swagger_annotations_1_5_14.xml" timestamp="1628751602349" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__io_swagger_swagger_models_1_5_14.xml" timestamp="1628751602356" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__javax_annotation_javax_annotation_api_1_3_2.xml" timestamp="1628731192575" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__javax_validation_validation_api_2_0_1_Final.xml" timestamp="1628731192581" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1628736480641" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__mysql_mysql_connector_java_8_0_25.xml" timestamp="1628731192587" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_7_11.xml" timestamp="1628751602362" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" timestamp="1628731192600" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" timestamp="1628731192614" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_cache_1_4_0.xml" timestamp="1629171310262" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" timestamp="1629171310270" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" timestamp="1629171310275" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_4_0.xml" timestamp="1629171310283" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" timestamp="1629171310292" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" timestamp="1629171310301" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" timestamp="1629171310308" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_event_1_4_0.xml" timestamp="1629171310321" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_shiro_shiro_lang_1_4_0.xml" timestamp="1629171310331" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" timestamp="1628731192620" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" timestamp="1628731192627" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" timestamp="1628731192634" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1628736480649" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" timestamp="1628731192642" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1628751602368" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" timestamp="1628731192650" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" timestamp="1628751602375" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_mybatis_mybatis_3_4_0.xml" timestamp="1628731192660" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1628731192671" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" timestamp="1628731192681" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" timestamp="1628731192690" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_reflections_reflections_0_9_11.xml" timestamp="1628751602380" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1628731192699" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1628731192707" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" timestamp="1628731192718" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" timestamp="1628731192731" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" timestamp="1628736810822" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" timestamp="1628731192739" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" timestamp="1628731192747" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" timestamp="1628731192754" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" timestamp="1628731192763" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" timestamp="1628731192772" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" timestamp="1628731192781" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" timestamp="1628751602387" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" timestamp="1628751602396" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" timestamp="1628731192789" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" timestamp="1628731192798" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" timestamp="1628731192805" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" timestamp="1628731192812" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" timestamp="1628731192820" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" timestamp="1628731192827" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" timestamp="1628731192834" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" timestamp="1628731192841" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" timestamp="1628731192848" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" timestamp="1628731192855" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\libraries\Maven__org_yaml_snakeyaml_1_19.xml" timestamp="1628731192866" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\misc.xml" timestamp="1628730905054" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\modules.xml" timestamp="1628730734595" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\.idea\workspace.xml" timestamp="1642326035685" />
+    <file path="C:\Users\Lenovo\IdeaProjects\wwwqianfengweb\wwwqianfengweb.iml" timestamp="1629171310184" />
+  </project-files>
+</conversion>
+

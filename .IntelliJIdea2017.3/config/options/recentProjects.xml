@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/wwwqianfengweb" />
+        <option value="$USER_HOME$/IdeaProjects/as" />
+        <option value="$USER_HOME$/IdeaProjects/springbootParent" />
+        <option value="$USER_HOME$/IdeaProjects/test1" />
+        <option value="$USER_HOME$/IdeaProjects/_810am" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/wwwqianfengweb" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/wwwqianfengweb" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/_810am">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1628573304859" />
+              <option name="buildTimestamp" value="1516033040971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/as">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1628750846232" />
+              <option name="buildTimestamp" value="1516033040738" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/springbootParent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1628736306602" />
+              <option name="buildTimestamp" value="1516033021651" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1628577408849" />
+              <option name="buildTimestamp" value="1516033036834" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/wwwqianfengweb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4301.25" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1642326035018" />
+              <option name="buildTimestamp" value="1516033037613" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

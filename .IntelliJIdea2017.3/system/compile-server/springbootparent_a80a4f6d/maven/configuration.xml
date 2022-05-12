@@ -1,0 +1,720 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="springbootParent">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent</directory>
+        <manifest />
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springbootParent" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\target" />
+          <entry key="build.finalName" value="springbootParent-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="pom" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_01_hellospringboot">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_01_hellospringboot</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_01_hellospringboot</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_01_hellospringboot" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\target" />
+          <entry key="build.finalName" value="springboot_01_hellospringboot-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_01_hellospringboot\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_01_hellospringboot/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_01_hellospringboot/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_02_json">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_02_json</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_02_json</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_02_json" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\target" />
+          <entry key="build.finalName" value="springboot_02_json-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_02_json\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_02_json/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_02_json/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_03_jjsspp">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_03_jjsspp</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_jjsspp</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_03_jjsspp" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\target" />
+          <entry key="build.finalName" value="springboot_03_jjsspp-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_jjsspp\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_jjsspp/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_jjsspp/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_03_truejsp">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_03_truejsp</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_truejsp</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar javax.annotation-api-1.3.2.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar tomcat-embed-jasper-8.5.34.jar ecj-3.12.3.jar jstl-1.2.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_03_truejsp" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\target" />
+          <entry key="build.finalName" value="springboot_03_truejsp-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="springboot_03_truejsp Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_03_truejsp\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_truejsp/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_03_truejsp/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_04_profiles">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_04_profiles</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_profiles</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_04_profiles" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\target" />
+          <entry key="build.finalName" value="springboot_04_profiles-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_profiles\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_profiles/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_profiles/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_04_yaml">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_04_yaml</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_yaml</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_04_yaml" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\target" />
+          <entry key="build.finalName" value="springboot_04_yaml-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_04_yaml\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_yaml/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_04_yaml/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_06_spingtest">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_06_spingtest</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_06_spingtest</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar mysql-connector-java-8.0.25.jar protobuf-java-3.11.4.jar slf4j-api-1.7.25.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_06_spingtest" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\target" />
+          <entry key="build.finalName" value="springboot_06_spingtest-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_06_spingtest\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_06_spingtest/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_06_spingtest/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_07_Mvm">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_07_Mvm</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_07_Mvm</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_07_Mvm" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\target" />
+          <entry key="build.finalName" value="springboot_07_Mvm-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_07_Mvm\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_07_Mvm/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_07_Mvm/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="springboot_08_ssm">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springboot_08_ssm</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>www.qianfeng</groupId>
+            <artifactId>springbootParent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_08_ssm</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogTGVub3ZvDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzEwMg0KDQo=</manifest>
+        <classpath>spring-boot-starter-web-2.0.5.RELEASE.jar spring-boot-starter-2.0.5.RELEASE.jar spring-boot-starter-logging-2.0.5.RELEASE.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotation-api-1.3.2.jar spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.5.RELEASE.jar jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core-2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-tomcat-2.0.5.RELEASE.jar tomcat-embed-core-8.5.34.jar tomcat-embed-el-8.5.34.jar tomcat-embed-websocket-8.5.34.jar hibernate-validator-6.0.12.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Final.jar classmate-1.3.4.jar spring-web-5.0.9.RELEASE.jar spring-beans-5.0.9.RELEASE.jar spring-webmvc-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring-context-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-boot-devtools-2.0.5.RELEASE.jar spring-boot-2.0.5.RELEASE.jar spring-boot-autoconfigure-2.0.5.RELEASE.jar mysql-connector-java-5.1.26.jar mybatis-spring-boot-starter-1.1.1.jar mybatis-spring-boot-autoconfigure-1.1.1.jar mybatis-3.4.0.jar mybatis-spring-1.3.0.jar spring-boot-starter-jdbc-2.0.5.RELEASE.jar HikariCP-2.7.9.jar spring-jdbc-5.0.9.RELEASE.jar spring-tx-5.0.9.RELEASE.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="springboot_08_ssm" />
+          <entry key="build.directory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\target" />
+          <entry key="build.finalName" value="springboot_08_ssm-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\src\test\java" />
+          <entry key="groupId" value="www.qianfeng" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="www.qianfeng:springbootParent:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="springbootParent" />
+          <entry key="parent.groupId" value="www.qianfeng" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Lenovo\IdeaProjects\springbootParent\springboot_08_ssm\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="settings.localRepository" value="D:\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_08_ssm/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Lenovo/IdeaProjects/springbootParent/springboot_08_ssm/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>
